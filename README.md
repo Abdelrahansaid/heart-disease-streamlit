@@ -79,13 +79,13 @@ Evaluation was done using:
 ### 🔴 High Risk
 
 <div align="center">
-  <img src="Risk.png" alt="High Risk Prediction" width="70%"/>
+  <img src="Images/Risk.png" alt="High Risk Prediction" width="70%"/>
 </div>
 
 ### 🟢 Low Risk
 
 <div align="center">
-  <img src="Low_Risk.png" alt="Low Risk Prediction" width="70%"/>
+  <img src="Images/Low Riske.png" alt="Low Risk Prediction" width="70%"/>
 </div>
 
 ---
@@ -96,7 +96,7 @@ Evaluation was done using:
 - Data is shown alongside user inputs (highlighted in red)
 
 <div align="center">
-  <img src="Viz.png" alt="Visualization Dashboard" width="80%"/>
+  <img src="Images/Viz.png" alt="Visualization Dashboard" width="80%"/>
 </div>
 
 ---
