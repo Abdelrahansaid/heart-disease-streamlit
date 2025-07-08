@@ -14,7 +14,7 @@ This project builds an **interactive Streamlit application** to predict heart di
 It includes data merging, preprocessing, model training, feature selection, visualization, and deployment via Ngrok.
 
 <div align="center">
-  <img src="Front.png" alt="App Front Page" width="80%"/>
+  <img src="Images/Front.png" alt="App Front Page" width="80%"/>
 </div>
 
 ---
