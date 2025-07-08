@@ -1,7 +1,5 @@
-# heart-disease-streamlit
-Machine learning app to predict heart disease using Streamlit and Scikit-learn
 # 🫀 Heart Disease Prediction App (UCI Dataset)
-
+Machine learning app to predict heart disease using Streamlit and Scikit-learn
 [![Python](https://img.shields.io/badge/Language-Python-blue)](https://www.python.org/)  
 [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-orange)](https://streamlit.io/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -108,4 +106,4 @@ Evaluation was done using:
 - Launch commands:
   ```bash
   streamlit run streamlit.py
-  ngrok https://66a5e25aae2f.ngrok-free.app/
+  ngrok https://66a5e25aae2f.ngrok-free.app
