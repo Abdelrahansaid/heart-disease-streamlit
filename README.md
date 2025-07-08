@@ -104,8 +104,8 @@ Evaluation was done using:
 ## 🌐 Deployment (Local + Public Access)
 
 - ✅ Built using [Streamlit](https://streamlit.io/)  
-- ✅ Deployed via **Ngrok** for public sharing  
+- ✅ Deployed via **[Ngrok](https://ngrok.com/)** for public sharing  
 - Launch commands:
   ```bash
-  streamlit run app.py
-  ngrok http 8501
+  streamlit run streamlit.py
+  ngrok https://66a5e25aae2f.ngrok-free.app/
