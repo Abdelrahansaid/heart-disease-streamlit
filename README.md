@@ -3,7 +3,8 @@ Machine learning app to predict heart disease using Streamlit and Scikit-learn
 [![Python](https://img.shields.io/badge/Language-Python-blue)](https://www.python.org/)  
 [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-orange)](https://streamlit.io/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Kaggle](https://www.kaggle.com/code/abdelrahmanalgamil/heart-disease-uci-project)](https://Kaggle.com/)  
+[![View on Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/abdelrahmanalgamil/heart-disease-uci-project)
+
 ---
 
 ## 📌 Project Overview
